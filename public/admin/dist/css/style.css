@@ -1,0 +1,104 @@
+/*css */ 
+/*reset css*/
+
+
+p.colorRed{
+	margin-bottom: 0px;
+	color: #ff0000;
+}
+
+
+.gamesdetailtbl  tr th{
+	text-align: center;
+}
+.rewards.borderRed{
+	border: 1px solid;
+	border-color: #ff0000;
+}
+
+
+
+.gamesdetailtbl  tr td{
+	text-align: center;
+} 
+
+.newgametable{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border: 2px solid;
+	border-color: #D3D3D3;
+}
+.newgametable tr td{
+	text-align: center;
+}
+
+.winslottick{
+	position: relative;
+}
+.winslottick i{
+	position: absolute;
+	color: green;
+	font-size: 28px;
+	top: 0;
+	margin-top: 9%;
+}
+.newgametable  tr td label> input
+{
+	width: 50px;
+}
+
+.spacepad
+{
+
+	padding: 4px;
+}
+.filtercombo {
+    margin-bottom: 9px;
+}
+.spaceanalyst {
+    margin-bottom: 18px !important;
+}
+
+.shoud-be-win label, .shoud-be-win p
+{
+	background: #cccccc;
+}
+.lay-back-heading
+{
+    font-size: 20px;
+    margin: 0;
+    padding-bottom: 8px;
+    padding-left: 20px;
+}
+
+.minHeight { min-height: 164px;	 }
+
+  .marginLeft0 { margin-left: 0px; }
+.info-box-number {
+    color: #337ab7;
+    font-size: 40px;
+    line-height: 40px;
+    margin: 5px 10px;}
+
+/* user search */
+
+.select2-selection__choice { background: #27408B !important }
+
+
+/* border radius */
+
+.borderRadius4 { border-radius: 4px; }
+
+/* padding */
+
+.paddingLeft0 { padding-left: 0px; }
+
+/* margin */
+
+.marginTop20 { margin-top: 20px; }
+.marginTop10 { margin-top: 10px; }
+.cursorPointer { cursor: pointer; }
+.error_message_in_popup{border-bottom: 1px solid #ccc}
+.error_message_in_popup > p{padding: 5px; color: red; text-align: center}
+.show-preview-elements{padding-top: 8px;}
+.select2-results__option.select2-results__option--highlighted {display: none;}
