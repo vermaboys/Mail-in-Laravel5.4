@@ -12,6 +12,8 @@ MAIL_PORT=587
 MAIL_USERNAME=Your-Gmail-Id
 MAIL_PASSWORD=Your-Gmail-password
 MAIL_ENCRYPTION=tls
+
+Finally you can access using http://localhost/Mail-in-Laravel5.4/contact-us
 ```
 
 ## You can also write all mail's code in your project using following instructions
@@ -213,4 +215,8 @@ class SentData extends Mailable
 
 </table>
 @endsection
+```
+
+```
+Finally you can access using http://localhost/Mail-in-Laravel5.4/contact-us
 ```
